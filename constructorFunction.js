@@ -34,3 +34,4 @@ Animal.prototype.sound = function(){
 
 let dog = new Animal('Dog');
 console.log(dog.sound());
+
